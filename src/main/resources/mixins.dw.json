@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "com.glyceryl6.disable.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "minVersion": "0.8",
+  "mixins": [
+  ],
+  "server": [],
+  "client": [
+    "MixinKeyMapping"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "mixins.dw.refmap.json"
+}

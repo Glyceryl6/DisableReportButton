@@ -1,0 +1,5 @@
+[049月2022 18:40:27.524] [main/DEBUG] [io.netty.util.internal.logging.InternalLoggerFactory/]: Using SLF4J as the default logging framework
+[049月2022 18:40:27.539] [main/DEBUG] [io.netty.util.ResourceLeakDetector/]: -Dio.netty.leakDetection.level: simple
+[049月2022 18:40:27.539] [main/DEBUG] [io.netty.util.ResourceLeakDetector/]: -Dio.netty.leakDetection.targetRecords: 4
+[049月2022 18:40:27.885] [main/WARN] [net.minecraft.server.Eula/]: Failed to load eula.txt
+[049月2022 18:40:27.885] [main/INFO] [net.minecraft.server.Main/]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
